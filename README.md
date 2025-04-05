@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/fixoratoken/Fixoratoken-Security/blob/main/fixora.jpg?raw=true" alt="Fixora Logo" width="200"/>
+</p>
 # FixoraToken Security Overview
 
 This repository contains the verified smart contract code and security documentation for the official FIXR token on BNB Smart Chain.
